@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/assets/banner.svg" alt="Magpie Projects — Collect. Connect. Create." width="100%" />
+  <img src="assets/banner.svg" alt="Magpie Projects — Collect. Connect. Create." width="100%" />
 </div>
 
 <br />
