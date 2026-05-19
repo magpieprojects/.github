@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://magpieprojects.com"><img src="https://img.shields.io/badge/web-magpieprojects.com-09324B?style=for-the-badge&labelColor=09324B" alt="website" /></a>
-  <img src="https://img.shields.io/badge/HQ-Frankfurt-09324B?style=for-the-badge&labelColor=09324B" alt="Frankfurt" />
-  <img src="https://img.shields.io/badge/coverage-Continental%20Europe-09324B?style=for-the-badge&labelColor=09324B" alt="Continental Europe" />
-  <img src="https://img.shields.io/badge/focus-Financial%20Markets-CAFE48?style=for-the-badge&labelColor=09324B" alt="Financial Markets" />
+  <a href="https://magpieprojects.com"><img src="https://img.shields.io/badge/web-magpieprojects.com-09324B?style=flat-square&labelColor=09324B" alt="website" /></a>
+  <img src="https://img.shields.io/badge/HQ-Frankfurt-09324B?style=flat-square&labelColor=09324B" alt="Frankfurt" />
+  <img src="https://img.shields.io/badge/coverage-Continental%20Europe-09324B?style=flat-square&labelColor=09324B" alt="Continental Europe" />
+  <img src="https://img.shields.io/badge/focus-Financial%20Markets-CAFE48?style=flat-square&labelColor=09324B" alt="Financial Markets" />
 </p>
 
 ---
