@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  <strong>Leading your transition to integrated Financial Markets.</strong><br />
+  <strong>Specialist execution partner for operational resilience in regulated capital markets.</strong><br />
   Emerging from LPA Consulting, we bring over two decades of capital markets expertise — now sharpened on forward-looking strategic transformation.
 </p>
 
@@ -13,7 +13,7 @@
   <a href="https://magpieprojects.com"><img src="https://img.shields.io/badge/web-magpieprojects.com-09324B?style=flat-square&labelColor=09324B" alt="website" /></a>
   <img src="https://img.shields.io/badge/HQ-Frankfurt-09324B?style=flat-square&labelColor=09324B" alt="Frankfurt" />
   <img src="https://img.shields.io/badge/coverage-Continental%20Europe-09324B?style=flat-square&labelColor=09324B" alt="Continental Europe" />
-  <img src="https://img.shields.io/badge/focus-Financial%20Markets-CAFE48?style=flat-square&labelColor=09324B" alt="Financial Markets" />
+  <img src="https://img.shields.io/badge/focus-Financial%20Markets-CAFE48?style=flat-square&labelColor=09324B" alt="Capital Markets" />
 </p>
 
 ---
@@ -30,11 +30,12 @@
 
 ### What we know best
 
-- **Risk & Compliance**
-- **Technology & Business Transformation**
-- **AI & Data Services**
+- **Risk**
+- **Compliance**
+- **Operations**
+- **AI & Data**
 
-We act on early insights to help clients stay ahead — guiding institutions from traditional capital markets toward integrated financial markets, where public and private capital flows intersect.
+We design, build and implement auditable operating environments across mission-critical workflows in Capital Markets. Offices in Frankfurt and Zurich, operating across the DACH region.
 
 ---
 
@@ -46,7 +47,7 @@ Most of our work lives in private repositories, built with and for our clients. 
 
 ### Get in touch
 
-**Magpie Projects**
+**Magpie Projects GmbH**
 Große Gallusstraße 9 · D-60311 Frankfurt · Germany
 
 [magpieprojects.com](https://magpieprojects.com) · [contact@magpieprojects.com](mailto:contact@magpieprojects.com) · [LinkedIn](https://de.linkedin.com/company/magpie-projects) · [Careers](https://magpie.jobs.personio.com/)
